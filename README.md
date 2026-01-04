@@ -31,7 +31,9 @@ dev-architect is a Claude Code plugin that provides expert guidance on software 
 ### Install from GitHub
 
 ```bash
-claude-code plugin install https://github.com/waelouf/dev-architect
+claude plugin marketplace add waelouf/dev-architect
+
+claude plugin install https://github.com/waelouf/dev-architect
 ```
 
 ### Install Locally

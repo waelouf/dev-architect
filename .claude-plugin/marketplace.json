@@ -1,0 +1,19 @@
+{
+  "name": "dev-architect",
+  "owner": {
+    "name": "Wael Mansour"
+  },
+  "metadata": {
+    "description": "Skills and tools for building well-architected software systems",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "dev-architect",
+      "source": "./",
+      "description": "Skills and tools for building well-architected software systems",
+      "version": "0.1.0",
+      "strict": true
+    }
+  ]
+}
