@@ -1,9 +1,9 @@
 {
-  "name": "Clean Architecture Powerup",
+  "name": "clean-architecture-powerup",
   "version": "1.0.0",
   "description": "Complete toolkit for building .NET Clean Architecture applications with FastEndpoints, Repository pattern, and Domain-Driven Design. Part of Claude Code Powerups.",
   "author": {
-        "name": "Claude Code Powerups"
+        "name": "Wael Mansour"
     },
   "license": "MIT",
   "repository": "https://github.com/waelouf/cc-powerup-clean-architecture",
